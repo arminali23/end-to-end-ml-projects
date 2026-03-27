@@ -49,7 +49,3 @@ ml-projects/
 ```
 
 Each project is self-contained with its own `Dockerfile`, `requirements.txt`, and `app/` module.
-
----
-
-*This repo is actively being expanded. More projects coming — object detection, custom model training, MLOps, and beyond.*
